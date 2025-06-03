@@ -7,3 +7,5 @@ Project based on Django Rest Framework (DRF)
 -May contain sensitive keys for old depricated AWS and Twilio accounts.
 
 -Bult during COVID, around 2021-2022 (in 11th grade). Peak usercount: 3,000 with ~250 accounts. 
+
+-Code quality is gargabe. Built in short bursts, sometimes while tweaking out.
